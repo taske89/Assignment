@@ -17,6 +17,5 @@ U 70. liniji koda lokalna promenljiva "textResult" je suvisna
 U 183. liniji koda "return" je nepotreban kao poslednja izjava u "void" metodi
 U 87. i 138. liniji koda zajednicki deo se moze izdvojiti iz "if" 
 Ukoliko se izvrsi deljenje sa nulom, verovatno ce izbaciti gresku. Korisnik nece dobiti nikakvu poruku sta je uzrok greske.
-Moglo bi to da se doda u metodu.
-Metoda ne vrsi proveru da li su brojevi i operacije uneti na odgovarajuci nacin.
+Moglo bi to da se doda u metodu(npr. da ne moze da se deli sa nulom)
 
